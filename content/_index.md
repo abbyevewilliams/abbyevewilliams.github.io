@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-- block: custom-banner
+  - block: custom-banner
     content: 
       text: ""
     design:

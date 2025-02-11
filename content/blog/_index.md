@@ -1,6 +1,6 @@
 
 ---
-title: "Blog"
+title: ""
 date: 2025-02-11
 type: "page"  # Ensure this is specified for Academic themes
 menu: main  # Adds the page to the main menu
