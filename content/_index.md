@@ -22,7 +22,7 @@ sections:
           size: cover
           position: center
           parallax: false
-      height: "20vh"
+      height: "5vh"
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
