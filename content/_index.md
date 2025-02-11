@@ -9,20 +9,6 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
-    content: 
-      title: ""  # Empty to remove text overlay
-      text: "" 
-    design:
-      background:
-        image:
-          filename: mountains.JPG  # Ensure this image exists in assets/media/
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-      height: "5vh"
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
