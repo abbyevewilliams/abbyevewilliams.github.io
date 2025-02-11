@@ -9,6 +9,19 @@ design:
   spacing: "6rem"
 
 sections:
+- block: custom-banner
+    content: 
+      text: ""
+    design:
+      background:
+        image:
+          filename: mountains.JPG
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+      css_class: banner
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -30,6 +43,4 @@ sections:
           size: cover
           position: center
           parallax: false
-      content:
-        background_color: rgba(255, 255, 255, 0.7)  # Semi-transparent white behind text
 ---
