@@ -9,19 +9,19 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: custom-banner
+  - block: hero
     content: 
-      text: ""
+      title: ""  # Empty to remove text overlay
+      text: "" 
     design:
       background:
         image:
-          filename: mountains.JPG
+          filename: mountains.JPG  # Ensure this image exists in assets/media/
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-      css_class: banner
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
