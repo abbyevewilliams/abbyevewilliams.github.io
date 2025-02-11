@@ -19,9 +19,9 @@ sections:
         text: Click here to download my CV
         url: uploads/cv_feb25.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: blue
+        color: darkblue
         image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
