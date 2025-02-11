@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: darkblue
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: mountains.JPG
@@ -30,6 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-    section_background:
-      color: white 
+      content:
+        background_color: rgba(255, 255, 255, 0.7)  # Semi-transparent white behind text
 ---
