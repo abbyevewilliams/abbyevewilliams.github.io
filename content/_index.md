@@ -19,7 +19,7 @@ sections:
         text: Click here to download my CV
         url: uploads/cv_feb25.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: darkblue
         image:
@@ -30,4 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
+    section_background:
+      color: white 
 ---
