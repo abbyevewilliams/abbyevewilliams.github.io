@@ -8,7 +8,6 @@ menu: main  # Adds the page to the main menu
 
 Below are some resources that I've found useful. I hope you do too!
 
-Books
-=====
+**Books**
 * *Superior: The Return of Race Science* by Angela Saini.
   An important read for anyone studying evolutionary biology/genetics.
