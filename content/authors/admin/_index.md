@@ -41,3 +41,5 @@ I'm a PhD student at the University of Oxford, UK, studying bird evolution in [S
 Outside of work I enjoy spending time in nature as much as I can, whether hiking, wild swimming or nature photography. I also dance salsa (badly).
 
 I'm always happy to chat - please get in touch if you have any questions!
+
+---
