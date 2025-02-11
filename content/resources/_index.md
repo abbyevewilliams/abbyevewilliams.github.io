@@ -1,12 +1,10 @@
 
 ---
-title: ""
+title: "Resources"
 date: 2025-02-11
 type: "page"  # Ensure this is specified for Academic themes
 menu:
-  main:
-    name: "Resources"  # What appears in the menu
-    identifier: "resources"
+  main
 ---
 
 Below are some resources that I've found useful. I hope you do too!
