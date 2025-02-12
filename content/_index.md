@@ -18,7 +18,7 @@ sections:
       background:
         color: "#ffffff"
         image:
-          filename: mountains.JPG  # Replace with your banner image in `assets/media/`
+          filename: mountains-narrow.JPG  # Replace with your banner image in `assets/media/`
           size: contain
           position: center
           filters:
