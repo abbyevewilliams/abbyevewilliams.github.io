@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-- block: hero
+  - block: hero
     content:
       title: ""  # No text needed
       text: ""   # No subtitle needed
