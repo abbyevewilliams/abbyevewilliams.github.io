@@ -19,7 +19,7 @@ sections:
       background:
         color: "#ffffff"
         image:
-          filename: mountains-narrow.JPG  # Ensure it's in assets/media/
+          filename: mountains.JPG  # Ensure it's in assets/media/
           size: cover
           position: center
           filters:
