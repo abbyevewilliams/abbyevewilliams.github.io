@@ -25,7 +25,6 @@ sections:
             brightness: 1.0
         height: "30vh"  # Adjust height for a narrower banner
         parallax: false
-sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
