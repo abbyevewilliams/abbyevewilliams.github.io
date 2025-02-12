@@ -9,12 +9,17 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: blank
+- block: hero
+    content:
+      title: ""  # No text needed
+      text: ""   # No subtitle needed
+      alignment: center
     design:
-      css_class: custom-banner  # Custom CSS to control height
+      css_class: custom-banner
       background:
+        color: "#ffffff"
         image:
-          filename: mountains.JPG  # Ensure this is in assets/media/
+          filename: mountains.JPG  # Ensure it's in assets/media/
           size: cover
           position: center
           filters:
