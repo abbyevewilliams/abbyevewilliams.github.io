@@ -10,6 +10,8 @@ menu:
 Below are some resources that I've found useful. I hope you do too!
 
 **Books**
+* *Statistical Rethinking* by Richard McElreath.
+  See also the [youtube series.](https://www.youtube.com/watch?v=FdnMWdICdRs)
 * *Superior: The Return of Race Science* by Angela Saini.
   An important read for anyone studying evolutionary biology/genetics.
 
