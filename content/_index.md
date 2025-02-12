@@ -9,12 +9,9 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: custom
-    content:
-      title: ""  # No title needed
-      text: ""   # No text needed
+  - block: blank
     design:
-      css_class: custom-banner  # Custom class for styling
+      css_class: custom-banner  # Custom CSS to control height
       background:
         image:
           filename: mountains.JPG  # Ensure this is in assets/media/
