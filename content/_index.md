@@ -9,22 +9,19 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
+  - block: custom
     content:
-      title: ""  # Leave empty if no text is needed
-      text: ""  # Optional subtitle
-      alignment: center
+      title: ""  # No title needed
+      text: ""   # No text needed
     design:
+      css_class: custom-banner  # Custom class for styling
       background:
-        color: "#ffffff"
         image:
-          filename: mountains-narrow.JPG  # Replace with your banner image in `assets/media/`
-          size: contain
+          filename: mountains.JPG  # Ensure this is in assets/media/
+          size: cover
           position: center
           filters:
             brightness: 1.0
-        height: "30vh"  # Adjust height for a narrower banner
-        parallax: false
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
