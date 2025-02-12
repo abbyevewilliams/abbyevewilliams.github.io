@@ -19,7 +19,7 @@ sections:
         color: "#ffffff"
         image:
           filename: mountains.JPG  # Replace with your banner image in `assets/media/`
-          size: cover
+          size: contain
           position: center
           filters:
             brightness: 1.0
