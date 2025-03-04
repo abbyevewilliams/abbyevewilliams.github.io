@@ -39,6 +39,6 @@ profiles:
 
 I'm a PhD student at the University of Oxford, UK, studying bird evolution in [Sonya Clegg's](https://www.biology.ox.ac.uk/people/sonya-clegg) group. I am specifically interested in using genomics as a tool to understand evolutionary processes such as hybridisation and extinction, alongside field studies. Previously, I worked as a Research Assistant at the Smithsonian Tropical Research Institute, Panama and the University of Cambridge, UK, studying butterfly wing pattern evolution and tropical forest conservation.
 
-Outside of work I enjoy spending time in nature as much as I can, whether hiking, wild swimming or nature photography. I also dance salsa (badly).
+Outside of work I enjoy spending time in nature as much as I can, whether hiking, wild swimming or (bad) nature photography.
 
 I'm always happy to chat - please get in touch if you have any questions!
