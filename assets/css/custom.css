@@ -1,7 +1,11 @@
 .custom-banner {
-    height: 350px;  /* Adjust to control banner height */
+    height: 500px;  /* Adjust to control banner height */
     background-size: cover;  
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
+}
+
+.navbar {
+    background-color: #fff6d1 !important;
 }
