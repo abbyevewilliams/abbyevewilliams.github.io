@@ -1,5 +1,5 @@
 .custom-banner {
-    height: 500px;  /* Adjust to control banner height */
+    height: 700px;  /* Adjust to control banner height */
     background-size: cover;  
     background-position: center;
     background-repeat: no-repeat;
@@ -7,5 +7,5 @@
 }
 
 .page-text {
-    font-size: 1.2rem; /* Adjust paragraph text */
+    font-size: 0.6rem; /* Adjust paragraph text */
 }
