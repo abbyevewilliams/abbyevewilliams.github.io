@@ -7,6 +7,9 @@
 appearance:
   mode: light
   color: blue
+  theme_day: forest
+  theme_night: forest
+  font_size: S
 
 # SEO
 marketing:
