@@ -6,6 +6,6 @@
     width: 100%;
 }
 
-.page-text {
-    font-size: 0.6rem; /* Adjust paragraph text */
+body .page-text {
+    font-size: 0.6rem !important; /* Adjust paragraph text */
 }

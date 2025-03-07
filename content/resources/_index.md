@@ -6,7 +6,6 @@ menu:
   main
 design:
   css_class: page-text
-  css_style: page-text
 ---
 
 Here are some resources that I've found useful for various things...
