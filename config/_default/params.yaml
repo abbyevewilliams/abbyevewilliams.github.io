@@ -6,9 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: blue
-  theme_day: forest
-  theme_night: forest
+  color: green
   font_size: S
 
 # SEO
