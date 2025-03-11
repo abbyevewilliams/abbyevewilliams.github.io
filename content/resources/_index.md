@@ -8,16 +8,14 @@ design:
   css_class: page-text
 ---
 
-Here are some resources that I've found useful for various things...
-
 **Bioinformatics**
 
 Analysing DNA data is hard! But fortunately there are lots of great resources out there. Below I've listed a few things below that have been helpful for me.
-* [This video](https://www.youtube.com/watch?v=fCd6B5HRaZ8) is a useful introduction to the process of DNA sequencing - I come back to it all the time!
+* [This video](https://www.youtube.com/watch?v=fCd6B5HRaZ8) is a useful introduction to the process of DNA sequencing.
 * It's useful to get comfortable with the command line for any kind of genomics or 'big data' project, as this is the main way you interact with the HPC (high performance cluster). There are loads of courses online, e.g. [codeacademy.](https://www.codecademy.com/learn/learn-the-command-line)
-* Pipeline management tools such as [Snakemake](https://snakemake.github.io/) and [Nextflow](https://www.nextflow.io/) are becoming more popular, and for good reason! Learning these tools is relatively straightforward and unlocks a huge repository of pre-designed reproducible workflows, for example:
-  * I used the Nextflow pipeline [nf-polish](https://github.com/MozesBlom/nf-polish) for cleaning DNA from avian museum samples.
-  * I used the Snakemake pipeline [PopGLen](https://github.com/zjnolen/PopGLen/tree/master/config) for doing population genomics analyses on a dataset containing both museum and contemporary samples. This one has awesome documentation.
+* Pipeline management tools such as [Snakemake](https://snakemake.github.io/) and [Nextflow](https://www.nextflow.io/) allow you to make your workflows more streamlined and reproducible. There are loads of pre-designed workflows out there, e.g.
+  * [nf-polish](https://github.com/MozesBlom/nf-polish) for cleaning DNA from avian museum samples.
+  * [PopGLen](https://github.com/zjnolen/PopGLen/tree/master/config) for doing population genomics analyses on mixed museum and contemporary samples.
 
 **Books**
 
