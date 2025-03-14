@@ -20,20 +20,3 @@ main:
     url: blog/
     weight: 30
     identifier: blog
-
-# Drop down resource menu
-
-  - name: Bioinformatics
-    url: resources/bioinformatics/
-    parent: resources
-    weight: 21
-
-  - name: Books
-    url: resources/books/
-    parent: resources
-    weight: 22
-
-  - name: Website Template
-    url: resources/website-template/
-    parent: resources
-    weight: 23
