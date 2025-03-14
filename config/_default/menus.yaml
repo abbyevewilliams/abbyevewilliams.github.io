@@ -23,7 +23,7 @@ main:
 
 # Drop down resource menu
 
-- name: Bioinformatics
+  - name: Bioinformatics
     url: resources/bioinformatics/
     parent: resources
     weight: 21
