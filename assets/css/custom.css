@@ -1,17 +1,24 @@
-
-
 .custom-banner {
-    position: relative;
+    height: 700px;  /* Adjust to control banner height */
+    background-size: cover;  
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
 }
 
-.custom-banner::before {
-    content: "";
-    position: absolute;
-    top: -100px; /* Adjust this value based on the spacing */
-    left: 0;
-    width: 100%;
-    height: 100px; /* Adjust this value to control the gradient transition */
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-    z-index: 1;
-    pointer-events: none;
+.light {
+    position: relative !important;
+    z-index: 2 !important;
+}
+
+.light::after {
+    content: "" !important;
+    position: absolute !important;
+    top: -100px !important; /* Moves the gradient into the white block */
+    left: 0 !important;
+    width: 100% !important;
+    height: 100px !important; /* Adjust height as needed */
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) !important;
+    z-index: 1 !important;
+    pointer-events: none !important;
 }
