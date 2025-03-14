@@ -14,7 +14,7 @@
 .light::after {
     content: "" !important;
     position: absolute !important;
-    top: 432px !important; /* Moves the gradient into the white block */
+    top: 438px !important; /* Moves the gradient into the white block */
     left: 0 !important;
     width: 100% !important;
     height: 150px !important; /* Adjust height as needed */
