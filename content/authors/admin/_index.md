@@ -42,3 +42,7 @@ I'm a PhD student at the University of Oxford, UK, studying bird evolution in [S
 Previously, I worked as a Research Assistant at the Smithsonian Tropical Research Institute, Panama and the University of Cambridge, UK, studying butterfly wing pattern evolution and tropical forest conservation.
 
 I'm always happy to chat - feel free to get in touch!
+
+
+
+
