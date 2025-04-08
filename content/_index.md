@@ -19,7 +19,7 @@ sections:
       #  text: Download my CV
       #  url: uploads/cv_feb25.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: white
         image:
