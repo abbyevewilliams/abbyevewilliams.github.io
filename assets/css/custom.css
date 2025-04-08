@@ -6,17 +6,17 @@
     width: 100%;
 }
 
-.light {
-    position: relative !important;
-    z-index: 2 !important;
-}
+/*.light {
+/*    position: relative !important;
+/*    z-index: 2 !important;
+/*}
 
-.dark {
+.light {
     min-height: 100vh; /* Makes the section at least as tall as the viewport */
   }
   
-  .dark .background-image {
-    height: 100vh;
+  .light .background-image {
+    height: 120vh;
     background-size: cover;
     background-attachment: fixed; /* This creates a nice parallax effect */
   }
