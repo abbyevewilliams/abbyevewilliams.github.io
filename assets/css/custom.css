@@ -17,7 +17,7 @@
   }
   
   .light .background-image {
-    height: 120vh;
+    height: 130vh;
     background-size: cover;
     background-attachment: fixed; /* This creates a nice parallax effect */
   }
