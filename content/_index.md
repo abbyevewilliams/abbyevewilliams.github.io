@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: white
+        color: blue
         image:
           # Add your image background to `assets/media/`.
           #filename: mountains.JPG
