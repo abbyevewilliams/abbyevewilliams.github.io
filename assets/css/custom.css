@@ -11,15 +11,15 @@
     z-index: 2 !important;
 }
 
-.light::after {
-    content: "" !important;
-    position: absolute !important;
-    top: 450px !important; /* Moves the gradient into the white block */
-    left: 0 !important;
-    width: 100% !important;
-    height: 150px !important; /* Adjust height as needed */
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) !important;
-    z-index: 1 !important;
-    pointer-events: none !important;
-}
+/*.light::after {
+/*    content: "" !important;
+/*    position: absolute !important;
+/*    top: 450px !important; /* Moves the gradient into the white block */
+/*    left: 0 !important;
+/*    width: 100% !important;
+/*    height: 150px !important; /* Adjust height as needed */
+/*    background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) !important;
+/*    z-index: 1 !important;
+/*    pointer-events: none !important;
+/*}
 
