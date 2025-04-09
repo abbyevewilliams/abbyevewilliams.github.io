@@ -22,6 +22,10 @@
     background-attachment: fixed; /* This creates a nice parallax effect */
   }
 
+.avatar-circle {
+  box-shadow: 0 0 0 3px #000000 !important; /* Black avatar border */
+}
+
 /*
 .light::after {
     content: "" !important;
