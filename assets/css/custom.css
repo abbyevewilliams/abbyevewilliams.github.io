@@ -23,30 +23,42 @@
   }
 
 .avatar.rounded-full {
-  border: 2px solid black !important; /* Black border */
+  border: 3px solid black !important; /* Black border */
   background-color: black !important; /* Black background for the padding area */
   padding: 1px !important; /* Maintain a small padding */
 }
 
-/* Center the profile section */
+/* Target the container with the resume-biography class */
+.resume-biography {
+  /* Make sure it takes full width */
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+
+/* Target the flex container holding your profile */
+.flex-none.m-w-\[130px\].mx-auto.md\:mx-0 {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important; /* Make it use full width of parent */
+  display: flex !important;
+  justify-content: center !important;
+}
+
+/* Make sure the profile div itself is centered */
 #profile {
   margin-left: auto !important;
   margin-right: auto !important;
-  text-align: center !important;
-}
-
-/* Center the resume-biography container */
-.resume-biography {
   display: flex !important;
-  justify-content: center !important;
+  flex-direction: column !important;
   align-items: center !important;
   width: 100% !important;
 }
 
-/* Make sure flex items are centered */
-.resume-biography > .flex {
-  justify-content: center !important;
+/* Make the avatar wrapper centered */
+.avatar-wrapper {
   margin-left: auto !important;
   margin-right: auto !important;
+  display: flex !important;
+  justify-content: center !important;
 }
-
