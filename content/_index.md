@@ -24,7 +24,7 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: sunrise_short.JPG
+          filename: sunrise.jpg
           filters:
             brightness: 1.0
           size: cover
