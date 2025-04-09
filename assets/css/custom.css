@@ -22,10 +22,10 @@
     background-attachment: fixed; /* This creates a nice parallax effect */
   }
 
-  .avatar img {
-    border: 3px solid #000000 !important;
-    box-shadow: none !important;
-  }
+.avatar img {
+  border: 3px solid #000000 !important;
+  box-shadow: none !important;
+}
 
 /*
 .light::after {
