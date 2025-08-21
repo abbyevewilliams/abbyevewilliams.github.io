@@ -10,12 +10,9 @@ main:
   - name: About
     url: about/
     weight: 10
-#    identifier: about
   - name: Outreach
     url: outreach/
-    weight: 13
-#    identifier: outreach
+    weight: 20
   - name: Resources
     url: resources/
-    weight: 20
-#    identifier: resources
+    weight: 30

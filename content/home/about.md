@@ -2,12 +2,10 @@
 
 ---
 title: "About"
-date: 2025-02-11
-type: "page"  # Ensure this is specified for Academic themes
-menu:
-  main
-design:
-  css_class: page-text
+widget: about
+active: true
+headless: true
+weight: 10
 ---
 
 I'm a PhD student at the University of Oxford, UK, studying bird evolution in [Sonya Clegg's](https://egioxford.web.ox.ac.uk/clegg-group) group at the [Edward Grey Institute for Field Ornithology](https://egioxford.web.ox.ac.uk/home). I am interested in using genomics as a tool to understand evolutionary processes such as adaptation, hybridisation and extinction.

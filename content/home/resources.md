@@ -1,11 +1,10 @@
 
 ---
 title: "Resources"
-date: 2025-02-11
-menu:
-  main
-design:
-  css_class: page-text
+widget: respurces
+active: true
+headless: true
+weight: 30
 ---
 
 **Code**
