@@ -8,11 +8,11 @@ main:
     url: /
     weight: 5
   - name: About
-    url: #about.md
+    url: #about
     weight: 10
   - name: Outreach
-    url: #outreach.md
+    url: #outreach
     weight: 20
   - name: Resources
-    url: #resources.md
+    url: #resources
     weight: 30
