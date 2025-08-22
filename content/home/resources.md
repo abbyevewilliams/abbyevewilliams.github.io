@@ -1,7 +1,7 @@
 
 ---
 title: "Resources"
-widget: respurces
+widget: resources
 active: true
 headless: true
 weight: 30
